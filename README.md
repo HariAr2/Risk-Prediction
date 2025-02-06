@@ -14,5 +14,4 @@
 -Try in Azure or AWS
 -Deploy in Heroku
 -Try streamlit
-
-
+-Try Front-End using JS

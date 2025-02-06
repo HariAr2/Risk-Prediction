@@ -8,7 +8,7 @@
 -Optimise the model for improved Accuracy
 -Increase the accuracy above 85%
 -Build Neural Network
-
+-Improve the Neural Network 
 ### WEEK-3-4
 -Build the front end (Required)
 -Try in Azure or AWS

@@ -2,7 +2,7 @@
 
 ## TIMELINE
 
-### WEEK-1-2
+### WEEK-1-2(Delayed)
 -Build the model using the accuquired data (Done)
 -Train and Test run the Model (Done)
 -Optimise the model for improved Accuracy
